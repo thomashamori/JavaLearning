@@ -9,5 +9,6 @@ public class DisplayDeck {
                         card.suitToString(card.getSuit()));
             }
         }
+        System.out.println("I've made a change");
     }
 }
